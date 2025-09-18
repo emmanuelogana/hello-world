@@ -1,2 +1,4 @@
 # hello-world
-This repo is for practicing GitHub flow
+This repo is for practising GitHub flow
+I'm a passionate, perseverant, and avid learner.
+
